@@ -1,0 +1,14 @@
+.movieSection {
+    padding: 50px 20px 20px 20px;
+    margin-top: 50px;
+    max-width: calc( 100vw - 40px);
+    overflow: hidden;
+    h2{
+        text-transform: capitalize;
+    }
+    .movieFlex{
+        .swiper-wrapper{
+            display: inline-flex;
+        }
+    }
+}
