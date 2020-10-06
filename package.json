@@ -2,7 +2,6 @@
   "name": "tvmaze-app",
   "version": "0.1.0",
   "private": true,
-//  "homepage": ".",
   "engines": {
     "npm": "6.13.4",
     "node": "12.16.1"
